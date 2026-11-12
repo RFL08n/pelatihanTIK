@@ -1,6 +1,6 @@
 body {
     background-color: #838383;
-    font-family: Arial, sans-serif;
+    font-family: poppins, sans-serif;
     color: #ffffff;
 }
 
@@ -12,4 +12,11 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgb(255, 253, 253);
     text-align: center;
+}
+
+.profil-gweh img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
 }
